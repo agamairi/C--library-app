@@ -1,1 +1,1 @@
-# C--library-app
+# C++ library-app
