@@ -1,23 +1,12 @@
-// Final Project Milestone 1
-// Date Module
-// File  Date.h
-// Version 1.0
-// Author   Fardad Soleimanloo
-// Revision History
-// -----------------------------------------------------------
-// Name               Date                 Reason
-/////////////////////////////////////////////////////////////////
 #ifndef SDDS_DATE_H
 #define SDDS_DATE_H
 
 #include <iostream>
 namespace sdds {
-    // MS 3 implementation
     extern bool sdds_test;
     extern int sdds_year;
     extern int sdds_mon;
     extern int sdds_day;
-    // end of ms 3 implementation
 
     const int NO_ERROR = 0;
     const int CIN_FAILED = 1;
