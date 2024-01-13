@@ -1,12 +1,3 @@
-// Final Project 
-// PublicationSelector
-// File PublicationSelector.h
-// Version 1.0
-// Author	Fardad Soleimanloo
-// Revision History
-// -----------------------------------------------------------
-// Name               Date                 Reason
-/////////////////////////////////////////////////////////////////
 #define _CRT_SECURE_NO_WARNINGS
 #include <iostream>
 #include <cstring>
