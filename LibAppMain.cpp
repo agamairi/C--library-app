@@ -1,12 +1,3 @@
-x// Final Project Milestone 5
-// LipApp Main
-// Version 1.0
-// Author	Fardad Soleimanloo
-// Revision History
-// -----------------------------------------------------------
-// Name               Date                 Reason
-/////////////////////////////////////////////////////////////////
-
 #include "LibApp.h"
 #include "Date.h"
 int main() {
